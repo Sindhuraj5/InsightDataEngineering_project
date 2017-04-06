@@ -1,0 +1,10 @@
+ppp-mia-30.shadow.net ,6
+d104.aa.net ,4
+205.189.154.54 ,4
+unicomp6.unicomp.net ,4
+199.120.110.21 ,3
+burger.letters.com ,3
+ppptky391.asahi-net.or.jp ,2
+129.94.144.152 ,2
+223.168.46.97 ,1
+219.156.97.22 ,1

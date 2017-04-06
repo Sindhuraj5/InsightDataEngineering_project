@@ -1,0 +1,10 @@
+/images/dual-pad.gif
+/shuttle/missions/sts-70/images/KSC-95EC-1013.jpg
+/history/apollo/apollo-13/images/70HC314.GIF
+/shuttle/technology/sts-newsref/sts_asm.html
+/shuttle/missions/sts-71/images/KSC-95EC-0613.jpg
+/shuttle/missions/sts-71/images/KSC-95EC-0912.gif
+/shuttle/technology/images/sts_spec_6-small.gif
+/shuttle/countdown/count70.gif
+/shuttle/countdown/count.gif
+/shuttle/technology/images/mission_profile_2-small.gif
